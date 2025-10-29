@@ -25,3 +25,6 @@ Incluí la llamada alternativa via GraphQL, el user puede buscar por personaje y
 - Tras usar Material y ver lo feos que quedaban los componentes, opté por cambiar a Chakra UI y Tailwind. Me dio bastante guerra implementar el ChakraProvider para declarar estilos y colores
 
 
+![Aplicación Rick & Morty](appImage.png)
+
+![Aplicación Rick & Morty](appImage2.png)
